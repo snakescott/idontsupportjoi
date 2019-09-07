@@ -3,3 +3,6 @@ This is a download of 26 snapshots of wesupportjoi.org from the Wayback Machine.
 
 # parsed.json
 This is a mapping from timestamp to list of signatories at that timestamp (note that if the parsing code is buggy, there will be errors).
+
+# signatories.json
+All individuals who ever signed wesupportjoi.org 
