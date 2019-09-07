@@ -1,5 +1,5 @@
 # idontsupportjoi
-analysis of data surrounding Joi Ito and the media lab
+Analysis of data surrounding support of Joi Ito at the MIT Media Lab in the wake of [his interactions with Jeffrey Epstein](https://www.media.mit.edu/posts/my-apology-regarding-jeffrey-epstein/).
 
 ## Context
 
